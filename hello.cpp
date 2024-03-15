@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+	cout << "toi da sua file";
   // Create and open a text file
   ofstream MyFile("filename.txt");
 
